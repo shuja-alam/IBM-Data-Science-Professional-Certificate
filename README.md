@@ -1,14 +1,14 @@
-# IBM-Data-Science-Professional-Certificate
+# IBM Data Science Professional Certificate
 
-This repository contains projects completed as part of the **IBM Data Science Professional Certificate**.
+This repository contains selected projects completed as part of the **IBM Data Science Professional Certificate**.
 
 ## Projects
 
-### 1. Python Data Science Project
+### 1. Python Project for Data Science
 
-A Python-based data science project completed during the IBM Data Science Professional Certificate.
+A Python-based project focused on fundamental data science concepts and practical data analysis using Jupyter Notebook.
 
-**Tools and Technologies:**
+**Tools & Skills:**
 - Python
 - Jupyter Notebook
 - Pandas
@@ -16,17 +16,35 @@ A Python-based data science project completed during the IBM Data Science Profes
 - Data Analysis
 - Data Visualization
 
-**Project File:**
-- `Python Project for DataScience .ipynb`
+---
 
-## About This Repository
+### 2. Data Science Capstone Project
 
-This repository is being used to document selected projects and practical work completed during my learning journey through the IBM Data Science Professional Certificate.
+A capstone project demonstrating the application of data science techniques to a practical problem.
+
+**Tools & Skills:**
+- Python
+- Jupyter Notebook
+- Data Analysis
+- Data Visualization
+- Data Science
+- Exploratory Data Analysis
+
+---
 
 ## Skills Demonstrated
 
 - Python for Data Analysis
 - Data Cleaning
-- Exploratory Data Analysis
+- Exploratory Data Analysis (EDA)
 - Data Visualization
-- Working with Jupyter Notebooks
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Practical Data Science
+
+## About
+
+This repository contains practical projects completed during my learning journey through the **IBM Data Science Professional Certificate**.
+
+These projects demonstrate my ability to work with data, perform analysis, and apply Python-based data science techniques to practical problems.
