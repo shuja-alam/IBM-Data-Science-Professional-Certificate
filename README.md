@@ -1,4 +1,4 @@
-# IBM Data Science Professional Certificate
+# IBM Data Science Professional Certificate Projects
 
 This repository contains selected projects completed as part of the **IBM Data Science Professional Certificate**.
 
